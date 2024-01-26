@@ -43,7 +43,8 @@ No installation required
 
 ## Usage
 
-Thank you for taking time reading our fav and hobbies!
+Thank you for taking time reading our favourites and hobbies!
+
 
 ## Contributing
 
@@ -55,7 +56,8 @@ Thank you for taking time reading our fav and hobbies!
 
 ## History
 
-January, 2024
+Winter, January 2024
+
 
 ## Credits
 
@@ -66,3 +68,4 @@ Chuhan Zhang
 ## License
 
 MIT
+
