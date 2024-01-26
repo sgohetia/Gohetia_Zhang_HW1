@@ -1,8 +1,4 @@
 # Gohetia_Zhang_HW1
-<<<<<<< Updated upstream
-This is the repo for HW1
-# Gohetia Sheldon & Zhang Chuhan
-=======
 This is the repo for our HW1
 # Gohetia Sheldon & Zhang Chuhan
 ## Gohetia Sheldon
@@ -49,6 +45,7 @@ No installation required
 
 Thank you for taking time reading our favourites and hobbies!
 
+
 ## Contributing
 
 1. Fork it!
@@ -61,6 +58,7 @@ Thank you for taking time reading our favourites and hobbies!
 
 Winter, January 2024
 
+
 ## Credits
 
 Sheldon Gohetia
@@ -70,4 +68,4 @@ Chuhan Zhang
 ## License
 
 MIT
->>>>>>> Stashed changes
+
