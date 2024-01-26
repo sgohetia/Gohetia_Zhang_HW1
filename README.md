@@ -33,7 +33,7 @@ I am from Southern Leyte, Philippines. Country that is rich in natural resources
 - become a Frontend or Backend developer here in Canada.
 - become an Animator.
 - become a motion and graphics designer.
-___
+---
 ## Zhang Chuhan
 ### **Hobbies**
 - Singing in koraoke
@@ -53,7 +53,10 @@ I'm from the city of Shenyang which is located in the northeastern of China. She
 
 
 
-___
+### **Looking forward to**
+- find what I'm really interested in through this program
+- maybe make some friends and get used to speaking English
+---
 ## Installation
 
 No installation required
