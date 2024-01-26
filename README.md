@@ -35,6 +35,23 @@ I am from Southern Leyte, Philippines. Country that is rich in natural resources
 - become a motion and graphics designer.
 ___
 ## Zhang Chuhan
+### **Hobbies**
+- Singing in koraoke
+- kpop dance
+- Watching chinese tv drama
+
+### **Culture** 
+I'm from the city of Shenyang which is located in the northeastern of China. Shenyang once used to be the capital city of the country in Qing dynasty hundreds of years ago.
+![shenyang forbidden palace](images/shenyang%20forbidden%20palace.jpg.webp)
+
+### **Favorite Chinese Food** 
+*spicy hotpot*
+![spicy hotpot](images/hotpot.webp)
+
+*tanghulu*
+![tanghulu](images/tanghulu.jpg)
+
+
 
 ___
 ## Installation
